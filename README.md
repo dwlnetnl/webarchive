@@ -1,4 +1,4 @@
-# webarchive ![GoDoc](https://godoc.org/github.com/dwlnetnl/webarchive?status.svg)
+# webarchive  [![GoDoc](https://godoc.org/github.com/dwlnetnl/webarchive?status.svg)](https://godoc.org/github.com/dwlnetnl/webarchive)
 Package webarchive reads Safari .webarchive files.
 
 ## Example
